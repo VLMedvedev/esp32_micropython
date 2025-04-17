@@ -68,6 +68,7 @@
       <workItem from="1743757956548" duration="6000" />
       <workItem from="1744034326729" duration="65000" />
       <workItem from="1744034605049" duration="47000" />
+      <workItem from="1744096606330" duration="163000" />
     </task>
     <task id="LOCAL-00001" summary="clear">
       <option name="closed" value="true" />
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744034626685</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="clear">
+      <option name="closed" value="true" />
+      <created>1744096613991</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744096613991</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,11 +128,37 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="5cb91745-8348-4112-8570-ec9dd4daeb61" value="TOOL_WINDOW" />
+        <entry key="d743d4a1-35d7-4dae-8c2a-aa7c370c625d" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="TAB_STATES">
       <map>
         <entry key="5cb91745-8348-4112-8570-ec9dd4daeb61">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="d743d4a1-35d7-4dae-8c2a-aa7c370c625d">
           <value>
             <State>
               <option name="FILTERS">
