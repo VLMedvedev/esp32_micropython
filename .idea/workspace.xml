@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b6643b8e-ccfa-4c4d-a209-d4bec51d60f0" name="Changes" comment="clear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esp32_generic_ota_4m/151/micropython.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/esp32_generic_ota_4m/151/micropython.sha" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/esp32_generic_ota_4m/163/micropython.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/esp32_generic_ota_4m/163/micropython.sha" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "testing",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/vladimir/PycharmProjects/esp32_micropython/esp32_generic_ota_4m",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
