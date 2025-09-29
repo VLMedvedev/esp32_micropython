@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6643b8e-ccfa-4c4d-a209-d4bec51d60f0" name="Changes" comment="clear">
-      <change beforePath="$PROJECT_DIR$/esp32_generic_ota_4m/mp_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/esp32_generic_ota_4m/mp_version.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b6643b8e-ccfa-4c4d-a209-d4bec51d60f0" name="Changes" comment="clear" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +98,7 @@
       <workItem from="1756367461322" duration="42000" />
       <workItem from="1756380913610" duration="80000" />
       <workItem from="1756720238217" duration="54000" />
-      <workItem from="1758102203896" duration="695000" />
+      <workItem from="1758102203896" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="clear">
       <option name="closed" value="true" />
@@ -294,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758102222421</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="clear">
+      <option name="closed" value="true" />
+      <created>1758102920865</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1758102920865</updated>
+    </task>
+    <task id="LOCAL-00026" summary="clear">
+      <option name="closed" value="true" />
+      <created>1758102935258</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1758102935258</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
