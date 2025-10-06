@@ -363,6 +363,7 @@
       <map>
         <entry key="5cb91745-8348-4112-8570-ec9dd4daeb61" value="TOOL_WINDOW" />
         <entry key="d743d4a1-35d7-4dae-8c2a-aa7c370c625d" value="TOOL_WINDOW" />
+        <entry key="a01fdd7c-70ad-4fcd-9417-20ba794ed30b" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="TAB_STATES">
@@ -395,6 +396,31 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="a01fdd7c-70ad-4fcd-9417-20ba794ed30b">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/vladimir/PycharmProjects/esp32_micropython/esp32_generic_ota_4m" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
           </value>
         </entry>
         <entry key="d743d4a1-35d7-4dae-8c2a-aa7c370c625d">
